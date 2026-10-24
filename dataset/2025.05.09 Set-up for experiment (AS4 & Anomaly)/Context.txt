@@ -1,0 +1,7 @@
+2x6mm aluminium
+6.3mm diameter
+300N pressure
+extraction on
+2000rpm
+150mmpm
+ServoViewer recordings for last 11 holes, not first few though :'(

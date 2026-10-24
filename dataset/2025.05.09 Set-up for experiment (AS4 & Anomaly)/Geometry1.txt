@@ -1,0 +1,67 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Circle: Circle-2(ID:1, From 2636 Pts.) 
+     Diameter =           6.4179                                                                                
+    Circular. =                                           0.0443                                                
+
+Circle: Circle-3(ID:2, From 2011 Pts.) 
+     Diameter =           6.4382                                                                                
+    Circular. =                                           0.0597                                                
+
+Circle: Circle-4(ID:3, From 2663 Pts.) 
+     Diameter =           6.4027                                                                                
+    Circular. =                                           0.1078                                                
+
+Circle: Circle-5(ID:4, From 2581 Pts.) 
+     Diameter =           6.4160                                                                                
+    Circular. =                                           0.0498                                                
+
+Circle: Circle-6(ID:5, From 2903 Pts.) 
+     Diameter =           6.3931                                                                                
+    Circular. =                                           0.0850                                                
+
+Circle: Circle-7(ID:6, From 2648 Pts.) 
+     Diameter =           6.3988                                                                                
+    Circular. =                                           0.0988                                                
+
+Circle: Circle-8(ID:7, From 2666 Pts.) 
+     Diameter =           6.4028                                                                                
+    Circular. =                                           0.1145                                                
+
+Circle: Circle-9(ID:8, From 2824 Pts.) 
+     Diameter =           6.4337                                                                                
+    Circular. =                                           0.0465                                                
+
+Circle: Circle-10(ID:9, From 2523 Pts.) 
+     Diameter =           6.5630                                                                                
+    Circular. =                                           0.0355                                                
+
+Circle: Circle-11(ID:10, From 2879 Pts.) 
+     Diameter =           6.4147                                                                                
+    Circular. =                                           0.1263                                                
+
+Circle: Circle-13(ID:11, From 2496 Pts.) 
+     Diameter =           6.4030                                                                                
+    Circular. =                                           0.0542                                                
+
+Circle: Circle-14(ID:12, From 2665 Pts.) 
+     Diameter =           6.4175                                                                                
+    Circular. =                                           0.1232                                                
+
+Circle: Circle-15(ID:13, From 2678 Pts.) 
+     Diameter =           6.4848                                                                                
+    Circular. =                                           0.0966                                                
+
+Circle: Circle-16(ID:14, From 2906 Pts.) 
+     Diameter =           6.5034                                                                                
+    Circular. =                                           0.0556                                                
+
+Circle: Circle-17(ID:15, From 2708 Pts.) 
+     Diameter =           6.3997                                                                                
+    Circular. =                                           0.0972                                                
+
+Circle: Circle-20(ID:16, From 2420 Pts.) 
+     Diameter =           6.3901                                                                                
+    Circular. =                                           0.0460                                                
+

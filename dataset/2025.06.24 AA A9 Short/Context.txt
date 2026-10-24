@@ -1,0 +1,3 @@
+2000rpm 150mmpm 2x6mm aly 16mm 16mm
+
+IlixTwistStub6.3E, short in collet, offset added 2mm to stop breakthrough

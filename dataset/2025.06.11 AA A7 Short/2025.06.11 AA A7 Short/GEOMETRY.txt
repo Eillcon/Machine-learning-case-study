@@ -1,0 +1,35 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Circle: Circle-19(ID:81, From 2737 Pts.) 
+     Diameter =           6.4129                                                                                
+    Circular. =                                           0.0659                                                
+
+Circle: Circle-20(ID:82, From 2610 Pts.) 
+     Diameter =           6.4110                                                                                
+    Circular. =                                           0.0307                                                
+
+Circle: Circle-21(ID:83, From 2751 Pts.) 
+     Diameter =           6.4186                                                                                
+    Circular. =                                           0.0492                                                
+
+Circle: Circle-22(ID:84, From 2709 Pts.) 
+     Diameter =           6.4161                                                                                
+    Circular. =                                           0.0366                                                
+
+Circle: Circle-23(ID:85, From 2801 Pts.) 
+     Diameter =           6.4003                                                                                
+    Circular. =                                           0.0431                                                
+
+Circle: Circle-24(ID:86, From 2722 Pts.) 
+     Diameter =           6.4082                                                                                
+    Circular. =                                           0.0518                                                
+
+Circle: Circle-25(ID:87, From 2725 Pts.) 
+     Diameter =           6.4424                                                                                
+    Circular. =                                           0.0712                                                
+
+Circle: Circle-26(ID:88, From 2722 Pts.) 
+     Diameter =           6.4491                                                                                
+    Circular. =                                           0.0458                                                
+

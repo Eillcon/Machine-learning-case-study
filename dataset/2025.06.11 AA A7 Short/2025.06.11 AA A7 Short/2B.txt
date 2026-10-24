@@ -1,0 +1,27 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Point: Point-9(ID:25, From 1 Pts.) 
+     Coord. Z =          18.7080                                                                                
+
+Point: Point-10(ID:26, From 1 Pts.) 
+     Coord. Z =          18.7598                                                                                
+
+Point: Point-11(ID:27, From 1 Pts.) 
+     Coord. Z =          18.7067                                                                                
+
+Point: Point-12(ID:28, From 1 Pts.) 
+     Coord. Z =          18.7620                                                                                
+
+Point: Point-13(ID:29, From 1 Pts.) 
+     Coord. Z =          18.7104                                                                                
+
+Point: Point-14(ID:30, From 1 Pts.) 
+     Coord. Z =          18.7638                                                                                
+
+Point: Point-15(ID:31, From 1 Pts.) 
+     Coord. Z =          18.7151                                                                                
+
+Point: Point-16(ID:32, From 1 Pts.) 
+     Coord. Z =          18.7486                                                                                
+

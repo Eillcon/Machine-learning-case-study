@@ -1,0 +1,15 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Circle: Circle-2(ID:132, From 2906 Pts.) 
+     Diameter =           6.4120                                                                                
+    Circular. =                                           0.0442                                                
+
+Circle: 15(ID:133, From 2903 Pts.) 
+     Diameter =           6.3826                                                                                
+    Circular. =                                           0.0198                                                
+
+Circle: 14(ID:134, From 2895 Pts.) 
+     Diameter =           6.3690                                                                                
+    Circular. =                                           0.0346                                                
+

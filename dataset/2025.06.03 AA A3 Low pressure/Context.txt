@@ -1,0 +1,6 @@
+2 x 6mm aluminum
+6.3mm diameter
+IlixTwistStub6.3C
+2000rpm 150mmpm
+Extraction ON
+Pressure ON LOW 1.3bar

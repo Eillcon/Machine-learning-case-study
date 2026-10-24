@@ -1,0 +1,5 @@
+2000rpm 150mmpm 16mm depth (14mm for holes 1 and 2)
+Extraction on
+2 x aly plates
+Tool inserted short, no breakthrough
+Data collection stopped frequently, order by datetime of folders
